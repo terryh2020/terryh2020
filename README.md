@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @terryh2020. I'm the Director of Technology for a public school division in Virginia. I have also been teaching AP Computer Science Principles since its launch in 2016. I am a graduate of the University of Illinois at Urbana-Champaign, where I majored in English literature and minored in math and German. I have also completed 18 hours of graduate-level courses in computer science at Radford University. I have been working in public education since 1998; before that, I held a variety of jobs in the private sector.
+- 👀 I’m interested in coding, data science, machine learning, robotics, guitar, bass, ukelele, and photography. I'm also interested in introducing elementary school students to computer science concepts. I am currently working with a wonderful guidance counselor on an after-school project to teach students how to program the Birdbrain Technologies Finch 2.0 robot, using Snap!.
+- 🌱 I’m currently working my way through the [MIT SICP (Structure and Interpretation of Computer Programs) book](https://mitpress.mit.edu/sites/default/files/sicp/index.html) and [Harvard's CS50 course](https://cs50.harvard.edu/ap/2022/) for AP Computer Science Principles. I'm also learning classical guitar and keyboards.
+- 💞️ I’m looking to collaborate on ways of improving computer science instruction for elementary, middle, and high school students, especially on how to get more girls and other under-represented groups interested in computer science. Interesting observation: the majority of students in the elementary after-school computer science program are girls, while more than 90% of the students I've had in my AP Computer Science Principles course are boys. Somewhere in middle school, girls appear to be losing interest in CS. 
+- 📫 How to reach me: terryh@scsb.org or terryh2020@gmail.com.
+
+<!---
+terryh2020/terryh2020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
